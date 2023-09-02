@@ -1,0 +1,8 @@
+Conclusión de la actividad "Invitación"
+
+¿Que aprendí?
+Aprendi a crear una pagina en HTML desde 0 con los conceptos que vimos en clases, el como crear su estructura, como intsertar titulos. como posicionar y agregar imagenes, como insertar texto con ayuda de parrafos, también aprendi a generar hipervinculos entre páginas.
+¿Qué podría mejorar?
+Podría ampliar mi conocimiento en los términos empleados ya que no conozco mucho respecto al tema, también debería de tratar de recordar la estructura ya que demore bastante en consultar varias veces el formato.
+¿En que puedo aplicar esta nueva información?
+Como lo vimos en clase, puedo emplear esta información en folletos informativos. Eventualmente estos conocimientos me ayudarpan a crear proyectos más grandes como podría ser una pagina web de ventas.
